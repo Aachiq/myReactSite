@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /docs_files/*/
+Disallow: /assets/*/
+Disallow: /css/*/
+Disallow: /js/*/
+
+Sitemap: https://devdigitalofppt.com/sitemap.xml
