@@ -2,6 +2,7 @@ import Menu from './common/components/Menu';
 import MainLayout from './common/components/MainLayout';
 import Services from './components/Services';
 import Feedback from './components/Feedback';
+import Carousel from './components/Carousel';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       />
       <Services/>
       <Feedback/>
+      <Carousel/>
     </div>
   );
 }
