@@ -3,6 +3,8 @@ import MainLayout from './common/components/MainLayout';
 import Services from './components/Services';
 import Feedback from './components/Feedback';
 import Carousel from './components/Carousel';
+import Contact from './components/Contact';
+import Footer from './common/components/Footer';
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <Services/>
       <Feedback/>
       <Carousel/>
+      <Contact/>
+      <Footer/>
     </div>
   );
 }

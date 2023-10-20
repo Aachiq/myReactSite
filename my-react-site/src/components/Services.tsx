@@ -46,7 +46,7 @@ export default function Services() {
       </ul>
       <div className="tab-content" id="myTabContent">
         <div className="tab-pane fade show active" id="most" role="tabpanel" aria-labelledby="most-tab">
-         {/* <div className="row">
+         <div className="row">
           <div className="col-md-4 p-1">
             <div className="content-item">
               <div className='img-tab-item'>
@@ -167,7 +167,7 @@ export default function Services() {
               </div>
             </div>
           </div>
-         </div> */}
+         </div>
          {/* END row 1 of Tab 1 */}
         </div> 
         {/* END Tab 1 NEXT IS TAB 2 */}
