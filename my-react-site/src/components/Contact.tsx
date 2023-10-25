@@ -1,7 +1,7 @@
 
 export default function Contact() {
   return (
-    <div className='contact-section'>
+    <div className='contact-section p-3'>
       <h1 className="text text-center py-4"
         style={{ fontFamily: "serif" }}
       >

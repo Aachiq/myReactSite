@@ -12,13 +12,13 @@ export default function Services() {
   //   {title : "PROJECTS"},
   // ]
   return (
-    <div className='container-fluid pt-2'>
+    <div className='container-fluid pt-3'>
       <h1 className="text text-center py-4"
           style={{ fontFamily: "serif" }}
       >
         SERVICES
       </h1> 
-      <ul className="nav nav-tabs" id="myTab" role="tablist">
+      <ul className="nav nav-tabs p-2" id="myTab" role="tablist">
         <li className="nav-item" role="presentation">
           <button className="nav-link active" id="most-tab" data-bs-toggle="tab" data-bs-target="#most" type="button" role="tab" aria-controls="most" aria-selected="true">MOST</button>
         </li>
